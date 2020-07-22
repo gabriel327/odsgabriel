@@ -1,0 +1,26 @@
+.t1{
+    background-color: aqua;
+    padding: 10px;
+    border: aquamarine;
+    margin: 20px;
+}
+.t2{
+    background-color: cornflowerblue;
+    padding: 10px;
+    border:  cadetblue;
+    margin: 20px;
+}
+.t3{
+    background-color: darkgray;
+    color: rgb(255, 255, 255);
+    padding: 20px;
+    padding-left: 30px;
+    margin: 20px;
+}
+.t4{
+    padding-left: 800px;
+    padding-top: 50px;
+}
+.t5{
+    padding-left: 700px;
+}
